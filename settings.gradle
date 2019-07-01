@@ -1,0 +1,4 @@
+rootProject.name = 'miniSpring'
+include 'framwork'
+include 'test'
+
